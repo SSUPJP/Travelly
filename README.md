@@ -1,6 +1,7 @@
 # Travelly
 
-Oct-28-2020 21-02-08.gif
+
+![Oct-28-2020 21-02-08](https://user-images.githubusercontent.com/73476497/97433627-25b3e200-1961-11eb-8848-3238f2ef06fc.gif)
 
 #### My First Project Using HTML/CSS(Flexbox) / Responsive Website
 #### It's a website for traveling abroad.
